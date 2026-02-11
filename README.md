@@ -50,5 +50,3 @@ User Journey: Landing → Стартове опитування → Програ
 - [MCP Protocol](https://modelcontextprotocol.io/) | [fastMCP](https://github.com/anthropics/fastmcp)
 - [Google AI Studio](https://ai.google.dev/) | [Anthropic Docs](https://docs.anthropic.com/)
 - [Pydantic](https://docs.pydantic.dev/) | [Cursor IDE](https://cursor.sh/)
-
-**Джерела**: red_mad_robot (V. Kovalskii) — Production AI Systems (2026), SGR Agent Core (vamplabAI), офіційна документація Anthropic та Google.
