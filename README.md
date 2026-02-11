@@ -8,6 +8,7 @@
 - **`RIQ_ARCHITECTURE_DIAGRAMS.md`** — архітектурні діаграми (15 діаграм)
 
 **RIQ** — платформа терапевтичних програм з AI-помічником.
+
 User Journey: Landing → Стартове опитування → Програма → Вправи → Рефлексії.
 
 **Принципи**: Own your core (~500 LOC), Програми як центр продукту, Reasoning через Pydantic, MCP (17 tools), Hybrid RAG 85%+ з Citation ≥70%, Multi-model (Gemini + Claude crisis), 19 MVP метрик, Freemium, TDD.
